@@ -1,1 +1,3 @@
-# simple_tetris
+# SİMPLE TETRİS
+
+a simple tetris game with python
